@@ -14,7 +14,6 @@ Welcome to the College Chatbot project! This chatbot is designed to provide info
 - HTML, CSS, JavaScript: Frontend development for the chat interface.
 - Python: Backend development and integration with machine learning models.
 - Flask: Web framework for handling HTTP requests.
-- TensorFlow, Pandas: Libraries for machine learning and data manipulation.
 - Simple Transformers: Library for transformer-based models.
 
 ## Getting Started
